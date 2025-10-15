@@ -1,4 +1,4 @@
-Data Source（20k images）, https://www.kaggle.com/datasets/jessicali9530/celeba-dataset 
+Data Source（200k images）, https://www.kaggle.com/datasets/jessicali9530/celeba-dataset 
 
 But we sampled 12000 images through the Kaggle notebook 
 
