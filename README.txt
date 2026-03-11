@@ -1,4 +1,5 @@
-COMP90051 Project
+COMP90051 Project 
+Analysis of the robustness of machine learning under the cover of face recognition
 
 Xinyao Li 1560643
 Hanyue Li 1650115
